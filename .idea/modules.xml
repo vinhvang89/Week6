@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HienThiLoiChao/HienThiLoiChao.iml" filepath="$PROJECT_DIR$/HienThiLoiChao/HienThiLoiChao.iml" />
       <module fileurl="file://$PROJECT_DIR$/KhaiBaoBien/KhaiBaoBien.iml" filepath="$PROJECT_DIR$/KhaiBaoBien/KhaiBaoBien.iml" />
       <module fileurl="file://$PROJECT_DIR$/KiemTraNamNhuan/KiemTraNamNhuan.iml" filepath="$PROJECT_DIR$/KiemTraNamNhuan/KiemTraNamNhuan.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuDungToanTu/SuDungToanTu.iml" filepath="$PROJECT_DIR$/SuDungToanTu/SuDungToanTu.iml" />
