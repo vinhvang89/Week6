@@ -17,6 +17,8 @@ public class CheckPrime {
                         System.out.println(x +" is a prime number");
                     }
             }
+        } else {
+            System.out.println("It is not a prime number");
         }
     }
 
