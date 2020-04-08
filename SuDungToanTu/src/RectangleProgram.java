@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RetangleProgram {
+public class RectangleProgram {
     public static void main(String[] args) {
         float width;
         float height;
@@ -8,6 +8,7 @@ public class RetangleProgram {
         width = scan.nextFloat();
         System.out.println("Enter height :");
         height = scan.nextFloat();
-
+        System.out.println("Area is :" +width*height);
     }
 }
+
