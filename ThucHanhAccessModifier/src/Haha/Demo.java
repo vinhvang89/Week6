@@ -2,6 +2,7 @@ package Haha;
 import Hehe.*;
 
 class Yox extends Xox {
+
     public Yox(int x, int y) {
         super(x, y);
     }
